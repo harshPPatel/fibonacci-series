@@ -21,5 +21,20 @@ int fibonaciSeriesGenerator(int value) {
 int main() {
 	
 	/* Variables */
+	int limit;
+	int loopControl;
 	
+	/* Taking User Input */
+	printf("Please Enter the limit : ");
+	scanf("%d", &limit);
+	
+	/* Output */
+	printf("Your Fibonaci Series : \n");
+	/* For Loop */
+	for (loopControl = 0; loopControl <= limit; loopControl++) {
+		printf("  %d\n", fibonaciSeriesGenerator(loopControl));
+	}
+	
+	getch();
+	return 0;
 }
