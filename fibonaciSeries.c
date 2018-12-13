@@ -4,7 +4,7 @@
  * \date 13 Dec 2018
  * \brief Printing the fibonacci Series using recursion
  *
- * \see https://harshppatel.gtihub.io
+ * \see https://harshppatel.github.io
  */
 
 
