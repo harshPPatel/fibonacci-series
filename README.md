@@ -6,9 +6,6 @@ Checkout Live Demo here: [Fibonacci Series](https://repl.it/@harshPPatel/Fibonac
 
 See documentation [here](https://harshppatel.github.io/fibonacci-series/index.html).
 
-### Included Functions/Methods : 
-- fibonaciSeriesGenerator
-
 ## Functions
 - ### Fibonacci Series generate Method
 	- **Name** : fibonaciSeriesGenerator
