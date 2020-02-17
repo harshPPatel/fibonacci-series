@@ -4,6 +4,8 @@ An C language, console based program which takes user input for the length of Fi
 
 Checkout Live Demo here: [Fibonacci Series](https://repl.it/@harshPPatel/Fibonacci-Series)
 
+See documentation [here](https://harshppatel.github.io/fibonacci-series/index.html).
+
 ### Included Functions/Methods : 
 - fibonaciSeriesGenerator
 
